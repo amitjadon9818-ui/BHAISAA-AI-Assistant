@@ -40,3 +40,19 @@ The local `config.json` and `devices.json` files are intentionally excluded from
 ## Status
 
 BHAISAA is actively being developed. Future work includes a network-independent device-pairing architecture and broader assistant capabilities.
+
+## Demo
+
+The current prototype demonstrates:
+
+- Device registration
+- Untrusted device status before pairing
+- 6-digit pairing-code generation
+- Pairing-code verification
+- Device trust management
+
+### Pairing Demo
+
+![BHAISAA Pairing Demo](BHAISAA_Demo_Clean.png)
+
+The demo shows a device being registered, paired through a 6-digit code, and successfully marked as trusted.
