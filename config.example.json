@@ -1,0 +1,17 @@
+{
+    "assistant": {
+        "name": "BHAISAA",
+        "language": "English",
+        "voice_enabled": false
+    },
+    "user": {
+        "name": "Your Name"
+    },
+    "device": {
+        "name": "Your Device",
+        "type": "Computer"
+    },
+    "ai": {
+        "model": "not_connected"
+    }
+}
